@@ -9,11 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="470" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🌱 I’m currently learning **HTML,CSS,Mysql,Javascript,MERN**
 
 - 📫 How to reach me **atchuvijay83@gmail.com**
+
+  - 🔭 Here's my [Resume](https://drive.google.com/file/d/11C7DZz48HnypEk7swuW1-bv28QHqeYgE/view?usp=drivesdk)   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
