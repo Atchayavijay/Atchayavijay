@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atchaya Vijayakumar</h1>
 <h3 align="center">A passionate Full Stack Mern Developer</h3>
 
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atchayavijay&label=Profile%20views&color=0e75b6&style=flat" alt="atchayavijay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atchayavijay" alt="atchayavijay" /></a> </p>
