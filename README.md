@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **atchuvijay83@gmail.com**
 
-- 🔭 Here's my **[RESUME]**(https://drive.google.com/file/d/11C7DZz48HnypEk7swuW1-bv28QHqeYgE/view?usp=drivesdk)   
+- 🔭 Here's my **[RESUME](https://drive.google.com/file/d/11C7DZz48HnypEk7swuW1-bv28QHqeYgE/view?usp=drivesdk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
