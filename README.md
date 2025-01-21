@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atchaya Vijayakumar</h1>
 <h3 align="center">A passionate Full Stack Mern Developer</h3>
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atchayavijay&label=Profile%20views&color=0e75b6&style=flat" alt="atchayavijay" /> </p>
 
@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,Css,MongoDb,Express.js,React.js,Node.js Mysql,Javascript**
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+- 🌱 I’m currently learning **HTML,CSS,Mysql,Javascript,MERN**
 
 - 📫 How to reach me **atchuvijay83@gmail.com**
 
