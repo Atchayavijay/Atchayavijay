@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" width="400" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="400" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NiNTh6ajdiM3VpbTNrenBpbzRuZjRjZ3h3c2VzNzZzNnZuM3F2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🌱 I’m currently learning **HTML,CSS,Mysql,Javascript,MERN**
 
