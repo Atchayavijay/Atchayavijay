@@ -15,11 +15,11 @@
 
 - 📫 How to reach me **atchuvijay83@gmail.com**
 
-- 🔭 Here's my **[RESUME](https://drive.google.com/file/d/11C7DZz48HnypEk7swuW1-bv28QHqeYgE/view?usp=drivesdk)**
+- 🔭 Here's my **[RESUME](https://drive.google.com/file/d/1VIKlxvztHHiHyEnfBusXKrlVku6FeLQ2/view?usp=drivesdk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atchaya-vijayakumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atchaya-vijayakumar/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atchaya-vijayakumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atchaya-vijayakumar/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
