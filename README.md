@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atchaya Vijayakumar</h1>
-<h3 align="center">A passionate Full Stack Mern Developer</h3>
+<h3 align="center">A passionate Mern Stack Developer</h3>
 
 
 
@@ -11,15 +11,18 @@
 
 <img align="right" width="400" height="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NiNTh6ajdiM3VpbTNrenBpbzRuZjRjZ3h3c2VzNzZzNnZuM3F2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🌱 I’m currently learning **HTML,CSS,Mysql,Javascript,MERN**
 
-- 📫 How to reach me **atchuvijay83@gmail.com**
+ 
+🌱 I’m currently working as a 🧑‍💻 **MERN Stack Developer @ Aastrazen** _(Jun 2023 – Present)_
 
-- 🔭 Here's my **[RESUME](https://drive.google.com/file/d/1VIKlxvztHHiHyEnfBusXKrlVku6FeLQ2/view?usp=drivesdk)**
+
+- 📫 How to reach me **atchayavijayakumar36@gmail.com**
+
+- 🔭 Here's my **[RESUME](https://drive.google.com/file/d/1IYGQaaZFRjFgmTVe7jn5YOh9MVQ85-Gp/view?usp=drivesdk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/atchaya-vijayakumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atchaya-vijayakumar/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/atchaya-vijayakumar-05165a369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/atchaya-vijayakumar-05165a369" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
