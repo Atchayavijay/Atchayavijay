@@ -13,16 +13,16 @@
 
 
  
-🌱 I’m currently working as a 🧑‍💻 **MERN Stack Developer @ Aastrazen** _(Jun 2023 – Present)_
+🌱 I’m currently working as a 🧑‍💻 **MERN Stack Developer @ Cloudize Datatech Private Limited** _(May 2023 – Present)_
 
 
-- 📫 How to reach me **atchayavijayakumar36@gmail.com**
+- 📫 How to reach me **atchayavijay03@gmail.com**
 
-- 🔭 Here's my **[RESUME](https://drive.google.com/file/d/1IYGQaaZFRjFgmTVe7jn5YOh9MVQ85-Gp/view?usp=drivesdk)**
+- 🔭 Here's my **[RESUME](https://drive.google.com/file/d/1VUsNo7gy2Wv8S_Qgiou7zeVJPkdeGhKc/view?usp=drivesdk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/atchaya-vijayakumar-05165a369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/atchaya-vijayakumar-05165a369" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/atchayavijay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/atchaya-vijayakumar-05165a369" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
