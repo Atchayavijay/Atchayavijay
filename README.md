@@ -13,7 +13,7 @@
 
 
  
-🌱 I’m currently working as a 🧑‍💻 **MERN Stack Developer @ Cloudize Datatech Private Limited** _(May 2023 – Present)_
+🌱 I’m currently working as a 🧑‍💻 **MERN Stack Developer @ Itrope Technologies** _(May 2023 – Present)_
 
 
 - 📫 How to reach me **atchayakumar0307@gmail.com**
