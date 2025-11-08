@@ -16,7 +16,7 @@
 🌱 I’m currently working as a 🧑‍💻 **MERN Stack Developer @ Cloudize Datatech Private Limited** _(May 2023 – Present)_
 
 
-- 📫 How to reach me **atchayavijay03@gmail.com**
+- 📫 How to reach me **atchayakumar0307@gmail.com**
 
 - 🔭 Here's my **[RESUME](https://drive.google.com/file/d/1VUsNo7gy2Wv8S_Qgiou7zeVJPkdeGhKc/view?usp=drivesdk)**
 
